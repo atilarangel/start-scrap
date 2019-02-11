@@ -1,7 +1,6 @@
 {
-  "name": "scrap_porto_santos",
+  "name": "start_scrap",
   "version": "1.0.0",
-  "description": "# Porto de Santos http://www.sppilots.com.br/?act=MOVIM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
